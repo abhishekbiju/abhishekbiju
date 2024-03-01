@@ -1,19 +1,18 @@
-# Hi there, I'm Abhishek 👋🏻
+![](https://github.com/abhishekbiju/abhishekbiju/blob/main/githubBanner.png)
+# Hi there 👋🏻
 
-I'm Abhishek, a passionate Data Scientist and Software Developer currently exploring the fascinating world of data science, machine learning, and software development. I'm a B.Sc. student in Computer Science & Data Science with a minor in Mathematics at the University of Wisconsin-Madison. I thrive on challenging myself with complex problems and am always on the lookout for new learning opportunities.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbiju&show_icons=true&theme=radical)
+I'm Abhishek, a passionate Data Scientist and Software Developer currently exploring the fascinating world of data science, machine learning, and software development. I'm a B.Sc. student in **Computer Science** & **Data Science**, and **Mathematics** at the University of Wisconsin-Madison. I thrive on challenging myself with complex problems and am always on the lookout for new learning opportunities!
 
 ## 🛠️ Technical Proficiencies
-- **Languages:** Java, Python, R, C#, .Net Core, Angular 2+, TypeScript, C++, HTML5, CSS3, ReactJS, jQuery, NodeJS, SQL, MongoDB
-- **Frameworks/Tools:** REST APIs, TensorFlow, Keras, PyTorch, Pandas, Scikit-learn, NumPy, Vim, Git, Shell Scripting, Maven, Gradle, MVC, MERN, CRUD, Agile, VS Code
-- **Certifications:** AWS Cloud Practitioner, AWS Associate Solutions Architect, Deeplearning.AI TensorFlow Specialization
+### 🧑🏻‍💻 Languages
+- Java, Python, R, C#, .Net Core, Angular 2+, TypeScript, C++, HTML5, CSS3, ReactJS, jQuery, NodeJS, SQL, MongoDB
+### 🔦 Frameworks/Tools 
+- REST APIs, TensorFlow, Keras, PyTorch, Pandas, Scikit-learn, NumPy, Vim, Git, Shell Scripting, Maven, Gradle, MVC, MERN, CRUD, Agile, VS Code
+### 🗞️ Certifications 
+- AWS Cloud Practitioner [->](https://www.credly.com/earner/earned/badge/0d70b8ea-aea1-40c9-a2e3-7595642acb65)
+- AWS Associate Solutions Architect [->](https://www.credly.com/badges/9126524a-7406-470f-a0d7-2aa568278415/linked_in_profile)
+- Deeplearning.AI TensorFlow Specialization [->](https://www.coursera.org/account/accomplishments/specialization/certificate/7KJUD49E3XPJ)
 
-## 🌱 I’m currently learning
-- Advanced Machine Learning Techniques
-- Cloud Architecture and Deployment
 
 ## 💼 Professional Experience
 
