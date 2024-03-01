@@ -4,7 +4,7 @@ I'm Abhishek, a passionate Data Scientist and Software Developer currently explo
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekbiju&show_icons=true&theme=radical)
 
 ## 🛠️ Technical Proficiencies
 - **Languages:** Java, Python, R, C#, .Net Core, Angular 2+, TypeScript, C++, HTML5, CSS3, ReactJS, jQuery, NodeJS, SQL, MongoDB
