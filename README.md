@@ -14,12 +14,15 @@ I'm Abhishek, a passionate Data Scientist and Software Developer currently explo
 - Deeplearning.AI TensorFlow Specialization [->](https://www.coursera.org/account/accomplishments/specialization/certificate/7KJUD49E3XPJ)
 
 
-## 💼 Professional Experience
-
-- **Data Science Intern @ FlyDubai** (Jun 2023 - Aug 2023): Implemented machine learning models to predict flight delays with 83.45% accuracy.
-- **Software Developer Intern @ The New Indian Express** (Apr 2020 - Jul 2020): Developed a custom scraper for digitizing archived articles, enhancing searchability.
-- **Software Developer Intern @ DataFortune Software Solutions Pvt. Ltd.** (Jun 2022 - Aug 2022): Developed the backend for a data-centric web application, optimizing data transfer times.
-- **Lead Technical Writer @ University of Wisconsin-Madison** (Sep 2022 - Present): Authored 1000+ support articles, aiding over 120,000 individuals.
+## 💼 Experiences
+### **Data Science Intern @ [FlyDubai](https://www.flydubai.com/en/)** 
+- Implemented machine learning models to predict flight delays with 83.45% accuracy.
+### **Software Developer Intern @ [The New Indian Express](https://indianexpress.com/)** 
+- Developed a custom scraper for digitizing archived articles, enhancing searchability.
+### **Software Developer Intern @ [DataFortune Software Solutions](https://datafortune.com/)**
+- Developed the backend for a data-centric web application, optimizing data transfer times.
+### **Lead Technical Writer @ University of Wisconsin-Madison** 
+- Authored 1000+ support articles, aiding over 120,000 individuals.
 
 ## 🚀 Key Projects
 
