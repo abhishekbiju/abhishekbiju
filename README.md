@@ -18,7 +18,7 @@ I'm Abhishek, a passionate Data Scientist and Software Developer currently explo
 - [**FocusFuse**](https://github.com/abhishekbiju/focusfuse-chrome-extension) : Focus Fuse is a Google Chrome extension that let's you focus on the tasks you need to do, your perfect productivity companion.
 
 ## 📫 Let's connect
-- 📧 abhibiju03@gmail.com
+- 📧 [Email](abhibiju03@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-biju-das-a112b718b/)
 - 📱 [Instagram](https://www.instagram.com/abhiii.b)
 
