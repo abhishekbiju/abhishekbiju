@@ -8,7 +8,7 @@ I'm Abhishek, a passionate Data Scientist and Software Developer currently explo
 - Java, Python, R, C#, .Net Core, Angular 2+, TypeScript, C++, HTML5, CSS3, ReactJS, jQuery, NodeJS, SQL, MongoDB
 ### 🔦 Frameworks/Tools 
 - REST APIs, TensorFlow, Keras, PyTorch, Pandas, Scikit-learn, NumPy, Vim, Git, Shell Scripting, Maven, Gradle, MVC, MERN, CRUD, Agile, VS Code
-### 🗞️ Certifications 
+## 🗞️ Certifications 
 - AWS Cloud Practitioner [->](https://www.credly.com/earner/earned/badge/0d70b8ea-aea1-40c9-a2e3-7595642acb65)
 - AWS Associate Solutions Architect [->](https://www.credly.com/badges/9126524a-7406-470f-a0d7-2aa568278415/linked_in_profile)
 - Deeplearning.AI TensorFlow Specialization [->](https://www.coursera.org/account/accomplishments/specialization/certificate/7KJUD49E3XPJ)
