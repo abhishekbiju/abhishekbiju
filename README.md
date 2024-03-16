@@ -16,6 +16,7 @@ I'm Abhishek, a passionate Data Scientist and Software Developer currently explo
 ## 🚀 Coding Endeavors
 - [**SkySight**](https://github.com/abhishekbiju/flight-delay-predictions-using-ML/tree/main) : A flight delay prediction tool using machine learning, a product of comprehensive research and development to deliver impressive prediction accuracies.
 - [**FocusFuse**](https://github.com/abhishekbiju/focusfuse-chrome-extension) : Focus Fuse is a Google Chrome extension that let's you focus on the tasks you need to do, your perfect productivity companion.
+- [**Dash's Nemesis**](https://github.com/abhishekbiju/Dash-s-Nemesis) : A thrilling 2D single-player battle royale game coded in Python, featuring strategic gameplay, special power moves, and leaderboard tracking.
 
 ## 📫 Let's connect
 - 📧 [Email](abhibiju03@gmail.com)
